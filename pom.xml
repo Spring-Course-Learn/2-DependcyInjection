@@ -30,4 +30,9 @@
   			</plugin>
   	</plugins>
   </build>
+   <packaging>pom</packaging>
+   <modules>
+   	<module>pj1-explict-xmlbased</module>
+   	<module>pj2-explict-javabased</module>
+   </modules>
 </project>
