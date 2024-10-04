@@ -34,5 +34,7 @@
    <modules>
    	<module>pj1-explict-xmlbased</module>
    	<module>pj2-explict-javabased</module>
+   	<module>pj3-autowire-xmlbased</module>
+   	<module>pj4-autowire-annotate</module>
    </modules>
 </project>
