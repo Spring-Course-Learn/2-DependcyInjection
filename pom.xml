@@ -36,5 +36,7 @@
    	<module>pj2-explict-javabased</module>
    	<module>pj3-autowire-xmlbased</module>
    	<module>pj4-autowire-annotate</module>
+   	<module>pj5-autowire-javabased</module>
+   	<module>pj6-common-errors</module>
    </modules>
 </project>
